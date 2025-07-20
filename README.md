@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **LLMs, RAG pipelines, and AI-Agents**
 
-- 👨‍💻 All of my projects are available at [https://sanjai-11.github.io/portfolio-website/](https://sanjai-11.github.io/portfolio-website/)
+- 👨‍💻 All of my projects are available at [https://github.com/sanjai-11](https://github.com/sanjai-11)
 
-- 💬 Ask me about **Python, SQL, Streamlit, FastAPI**
+- 💬 Ask me about **AI Agents, LLM Models, ML/DL, Startup, Business**
 
 - 📫 How to reach me **sanjaibala11@gmail.com**
 
