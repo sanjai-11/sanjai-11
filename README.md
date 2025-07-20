@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, SQL, Streamlit, FastAPI**
 
-- 📫 How to reach me **sanjaibala2002@gmail.com**
+- 📫 How to reach me **sanjaibala11@gmail.com**
 
 - ⚡ Fun fact **I don't care about how many times I fail, I try again.**
 
